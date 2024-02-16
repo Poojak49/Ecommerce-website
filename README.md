@@ -13,8 +13,8 @@ This is a full-stack e-commerce website for purchasing dairy products online. It
 * Responsive design for mobile and desktop<br>
 
 ## Technologies Used
-Django: Python web framework for backend development<br>
-HTML, CSS, JavaScript: Frontend development<br>
-Bootstrap: Frontend UI framework<br>
-SQLite: Database management system<br>
-Git and GitHub: Version control and hosting platform<br>
+* Django: Python web framework for backend development<br>
+* HTML, CSS, JavaScript: Frontend development<br>
+* Bootstrap: Frontend UI framework<br>
+* SQLite: Database management system<br>
+* Git and GitHub: Version control and hosting platform<br>
